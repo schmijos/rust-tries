@@ -1,0 +1,4 @@
+[package]
+name = "rust_tries_fib"
+version = "0.1.0"
+authors = [" <jschmid@fastmail.net>"]
